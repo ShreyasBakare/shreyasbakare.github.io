@@ -1,65 +1,45 @@
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&display=swap');
-
-:root {
-    --bg-color: #121212;
-    --text-color: #ffffff;
-    --accent-color: #ff4081;
-    --nav-bg: #1e1e1e;
-    --footer-bg: #222;
-}
-
 body {
-    font-family: 'Orbitron', sans-serif;
-    background-color: var(--bg-color);
-    color: var(--text-color);
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    transition: background 0.3s ease-in-out, color 0.3s ease-in-out;
+    background-color: #f4f4f4;
+    color: #333;
 }
 
-.navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 15px 30px;
-    background: var(--nav-bg);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-}
-
-.nav-links {
-    list-style: none;
-    display: flex;
-    gap: 20px;
-}
-
-.nav-links li a {
-    color: var(--text-color);
-    text-decoration: none;
-    font-size: 18px;
-    transition: color 0.3s;
-}
-
-.nav-links li a:hover {
-    color: var(--accent-color);
-}
-
-.logo a {
-    font-size: 22px;
-    font-weight: bold;
-    color: var(--accent-color);
-    text-decoration: none;
-}
-
-.theme-toggle button {
-    background: none;
-    border: none;
-    font-size: 22px;
-    cursor: pointer;
-    color: var(--text-color);
-}
-
-footer {
-    text-align: center;
+.site-header {
+    background-color: #222;
+    color: white;
     padding: 15px;
-    background: var(--footer-bg);
+    text-align: center;
+}
+
+.site-header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.site-header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.site-header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.site-footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #222;
+    color: white;
 }

@@ -3,32 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} | {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <script src="{{ '/assets/js/script.js' | relative_url }}" defer></script>
-    <link rel="icon" type="image/png" href="{{ '/images/favicon.png' | relative_url }}">
+    <title>{{ page.title }} | Shreyas Bakare</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
-    <header>
-        <nav class="navbar">
-            <div class="logo"><a href="{{ site.baseurl }}/">Shreyas Bakare</a></div>
-            <ul class="nav-links">
-                {% for name, link in site.nav_links %}
-                <li><a href="{{ link | relative_url }}">{{ name }}</a></li>
-                {% endfor %}
-            </ul>
-            <div class="theme-toggle">
-                <button id="toggle-theme">🌙</button>
-            </div>
-        </nav>
-    </header>
 
-    <main>
+    {% include header.html %}
+
+    <main class="content">
         {{ content }}
     </main>
 
-    <footer>
-        <p>© {{ site.time | date: '%Y' }} Shreyas Bakare | High Energy Physics</p>
-    </footer>
+    {% include footer.html %}
+
 </body>
 </html>
