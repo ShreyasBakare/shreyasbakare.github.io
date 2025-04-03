@@ -3,14 +3,14 @@ layout: default
 title: "Research"
 ---
 
-## Research Interests
+# My Research in High Energy Physics
 
-I am currently working on:
+## Graph Neural Networks in CMS  
+I work on **Graph Neural Networks (GNNs)** to analyze multi-lepton final states.  
+- **Using GCNConv layers** for event classification.  
+- **Incorporating kinematic properties** into graph structures.  
+- **Applying BCE loss** for high P_T track identification.  
 
-- **Graph Neural Networks (GNNs) for Collider Physics**
-- **Jet Reconstruction in CMS Experiment**
-- **Lepton Pairing Algorithms for New Physics Searches**
-
-My past work includes **charge misidentification studies at CMS** and **ATLAS multi-lepton analysis**.
-
-For detailed publications, visit my **[publications](/publications)** page.
+## Ongoing Projects  
+🚀 **ML-based Anomaly Detection in CMS**  
+🚀 **New Physics Search in Lepton-Jet Final States**  

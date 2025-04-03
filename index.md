@@ -1,13 +1,25 @@
 ---
 layout: home
-title: "Shreyas Bakare"
-subtitle: "Experimental High Energy Physics | Graph Neural Networks"
+title: "Home"
 ---
 
-Welcome to my personal webpage! I am a **High Energy Physics (HEP) researcher** with a keen interest in **Graph Neural Networks (GNNs) and AI-driven event reconstruction in collider experiments**.  
+# Welcome to My High Energy Physics World ⚛️
 
-📌 **Current Work:** Investigating novel ML techniques for the CMS Experiment at CERN.  
-📌 **Past Experience:** ATLAS Experiment at CERN, lepton pairing algorithms, and charge misidentification studies.  
-📌 **Interests:** Collider Physics, Data Science, AI for Physics, and detector R&D.  
+## About Me  
+I am **Shreyas Bakare**, a High Energy Physicist working on experimental particle physics with CMS at CERN.  
+I specialize in **machine learning techniques for HEP**, particularly **Graph Neural Networks** for event classification.  
 
-Feel free to explore my **[research](/research)**, **[publications](/publications)**, or check out my **[CV](/cv)**.  
+## Research Interests  
+- **Collider Physics:** Exploring new physics at high energies.  
+- **Machine Learning for HEP:** Using Graph Neural Networks for event classification.  
+- **Lepton Final States:** Studying WZ, ZZ, and multi-lepton events in CMS data.  
+
+## Featured Projects  
+🔹 **Graph Neural Networks for CMS Data Analysis**  
+🔹 **Lepton Pairing Algorithm for Multilepton Final States**  
+🔹 **Charge Misidentification Rate Measurements at CMS**  
+
+---
+
+✉ **Contact Me:** [your-email@example.com](mailto:your-email@example.com)  
+📄 **[Download My CV](cv.pdf)**  
