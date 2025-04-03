@@ -5,4 +5,4 @@ title: "CV"
 
 ## Curriculum Vitae (CV)
 
-[Download my CV (PDF)](https://yourgithub.com/cv.pdf)
+[Download my CV (PDF)](cv_shreyas_bakare.pdf)

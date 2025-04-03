@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-# Welcome to My High Energy Physics World ⚛️
+<!-- # Welcome to My High Energy Physics World ⚛️
 
 ## About Me  
 I am **Shreyas Bakare**, a High Energy Physicist working on experimental particle physics with CMS at CERN.  
@@ -17,9 +17,11 @@ I specialize in **machine learning techniques for HEP**, particularly **Graph Ne
 ## Featured Projects  
 🔹 **Graph Neural Networks for CMS Data Analysis**  
 🔹 **Lepton Pairing Algorithm for Multilepton Final States**  
-🔹 **Charge Misidentification Rate Measurements at CMS**  
+🔹 **Charge Misidentification Rate Measurements at CMS**   -->
+
+Under construction!
 
 ---
 
-✉ **Contact Me:** [your-email@example.com](mailto:your-email@example.com)  
-📄 **[Download My CV](cv.pdf)**  
+✉ **Contact Me:** [shreyas.bakare@students.iiserpune.ac.in](mailto:shreyas.bakare@students.iiserpune.ac.in)  
+📄 **[Download My CV](cv_shreyas_bakare.pdf)**  
