@@ -24,4 +24,4 @@ Under construction!
 ---
 
 ✉ **Contact Me:** [shreyas.bakare@students.iiserpune.ac.in](mailto:shreyas.bakare@students.iiserpune.ac.in)  
-📄 **[Download My CV](cv_shreyas_bakare.pdf)**  
+📄 **[Download My CV](cv_Shreyas-Bakare.pdf)**  
